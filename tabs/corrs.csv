@@ -1,71 +1,79 @@
 test;index;Pearson's r;95% CI;t-statistic;p-value (r);Spearman's rho;S statistic;p-value (rho)
-1_verbalni_pamet_a_uceni;1_konfab_1.4;.10;[-.27, .44];0.536;.596;.17;3711.7;.357
-1_verbalni_pamet_a_uceni;1_opak_1.4;.52;[.20, .74];3.217;.003;.48;2359.7;.008
-1_verbalni_pamet_a_uceni;1_pok1;.49;[.16, .73];3.010;.005;.46;2427.2;.011
-1_verbalni_pamet_a_uceni;1_pok2;.50;[.17, .73];3.029;.005;.42;2588.6;.020
-1_verbalni_pamet_a_uceni;1_pok3;.61;[.32, .80];4.068;< .001;.63;1668.4;< .001
-1_verbalni_pamet_a_uceni;1_pok4;.50;[.17, .73];3.076;.005;.60;1788.1;< .001
-1_verbalni_pamet_a_uceni;1_pok5;.29;[-.07, .59];1.624;.116;.27;3275.6;.147
-1_verbalni_pamet_a_uceni;1_pok6;.51;[.19, .74];3.169;.004;.47;2404.4;.010
-1_verbalni_pamet_a_uceni;1_pok7;.57;[.27, .77];3.695;< .001;.55;2005.2;.002
-1_verbalni_pamet_a_uceni;1_pok_1.4;.70;[.46, .85];5.199;< .001;.66;1515.1;< .001
-1_verbalni_pamet_a_uceni;1_rekog_nuc_volba;-.10;[-.44, .27];-0.522;.605;-.10;4965.3;.582
-1_verbalni_pamet_a_uceni;1_rekog_sumSeznam1;.16;[-.22, .49];0.843;.406;.21;3529.2;.254
-1_verbalni_pamet_a_uceni;1_rekognice_sumHS;.28;[-.09, .58];1.517;.141;.39;2754.1;.034
-4_sluchova_pozornost;4_inhibice;.98;[.95, .99];23.314;< .001;.25;3363.9;.180
-4_sluchova_pozornost;4_opomenuti;.48;[.14, .72];2.891;.007;.51;2183.4;.004
-4_sluchova_pozornost;4_sum_body;.47;[.14, .71];2.840;.008;.52;2154.6;.003
-4_sluchova_pozornost;4_zamena;.40;[.04, .66];2.292;.030;.49;2300.9;.006
-5_zrakova_pozornost;5_n_hlav;.93;[.87, .97];13.865;< .001;.89;500.3;< .001
-5_zrakova_pozornost;5_n_opomenuti;.26;[-.11, .57];1.449;.159;.35;2927.2;.059
-5_zrakova_pozornost;5_n_zamena;-.07;[-.42, .30];-0.374;.711;-.15;5176.0;.424
-6_trideni;6_n_correct_rules;.76;[.56, .88];6.251;< .001;.75;1113.5;< .001
-7_inhibice_a_presun_pozornosti;7_inhi_cas;.88;[.76, .94];9.855;< .001;.80;878.8;< .001
-7_inhibice_a_presun_pozornosti;7_inhi_neopr_chyby;.53;[.21, .75];3.320;.003;.39;2728.4;.032
-7_inhibice_a_presun_pozornosti;7_inhi_opr_chyby;.20;[-.17, .52];1.077;.291;.40;2698.3;.029
-7_inhibice_a_presun_pozornosti;7_inhi_sum_chyby;.24;[-.13, .55];1.295;.206;.36;2893.0;.053
-7_inhibice_a_presun_pozornosti;7_pojm_cas;.83;[.68, .92];7.979;< .001;.69;1381.3;< .001
-7_inhibice_a_presun_pozornosti;7_pojm_neopr_chyby;-.05;[-.40, .32];-0.263;.795;-.05;4718.1;.795
-7_inhibice_a_presun_pozornosti;7_pojm_opr_chyby;-.21;[-.53, .17];-1.120;.272;-.18;5313.1;.336
-7_inhibice_a_presun_pozornosti;7_pojm_sum_chyby;-.30;[-.59, .07];-1.634;.113;-.28;5740.0;.138
-7_inhibice_a_presun_pozornosti;7_presun_cas;.66;[.40, .83];4.708;< .001;.77;1038.8;< .001
-7_inhibice_a_presun_pozornosti;7_presun_neopr_chyby;.13;[-.24, .47];0.690;.496;.17;3712.0;.357
-7_inhibice_a_presun_pozornosti;7_presun_opr_chyby;.49;[.15, .72];2.936;.007;.44;2505.3;.014
-7_inhibice_a_presun_pozornosti;7_presun_sum_chyby;.42;[.07, .67];2.418;.022;.43;2581.9;.019
-8_pracovni_pamet;8_suma_HS;.70;[.45, .85];5.180;< .001;.61;1757.1;< .001
-9_verbalni_fluence;9_K_sum;.83;[.68, .92];8.008;< .001;.85;660.0;< .001
-9_verbalni_fluence;9_V_sum;.78;[.59, .89];6.664;< .001;.79;965.4;< .001
-9_verbalni_fluence;9_switch_pocet_switch;.60;[.30, .79];3.938;< .001;.63;1678.7;< .001
-9_verbalni_fluence;9_switch_sum;.59;[.30, .79];3.908;< .001;.61;1755.8;< .001
-9_verbalni_fluence;9_zvire_sum;.39;[.03, .66];2.241;.033;.25;3367.0;.181
-10_konfrontacni_pojmenovani;10_celkem_fon;.28;[-.09, .58];1.514;.141;.15;3826.9;.433
-10_konfrontacni_pojmenovani;10_celkem_kat;.19;[-.18, .52];1.037;.309;.23;3452.9;.218
-10_konfrontacni_pojmenovani;10_celkem_spont;.89;[.79, .95];10.577;< .001;.90;441.2;< .001
-10_konfrontacni_pojmenovani;10_celkem_spont.kat;.87;[.75, .94];9.478;< .001;.87;577.6;< .001
-11_vybaveni_s_napovedou;11_sum_konfab;.07;[-.30, .42];0.357;.724;.10;4038.8;.594
-11_vybaveni_s_napovedou;11_sum_napoveda;.31;[-.06, .60];1.731;.094;.28;3258.2;.141
-11_vybaveni_s_napovedou;11_sum_pojm;.53;[.21, .75];3.291;.003;.31;3110.1;.098
-11_vybaveni_s_napovedou;11_sum_spont_vybav;.43;[.08, .68];2.528;.017;.35;2939.3;.061
-11_vybaveni_s_napovedou;11_sum_vybav;.19;[-.18, .52];1.030;.312;.17;3736.7;.373
-11_vybaveni_s_napovedou;11_sum_vybav_spont_napoveda;.47;[.13, .71];2.808;.009;.32;3040.4;.081
-13_porozumeni_pokynum;13_sumaHS;.61;[.32, .80];4.096;< .001;.71;1314.8;< .001
-15_motoricka_koordinace;15_leva_r1_celk_cas;.20;[-.17, .52];1.084;.288;.19;3632.4;.310
-15_motoricka_koordinace;15_leva_r2_celk_cas;.55;[.23, .76];3.466;.002;.49;2292.7;.006
-15_motoricka_koordinace;15_leva_r3_celk_cas;.81;[.63, .90];7.192;< .001;.68;1440.2;< .001
-15_motoricka_koordinace;15_leva_r4_celk_cas;.79;[.61, .90];6.900;< .001;.73;1199.8;< .001
-15_motoricka_koordinace;15_prava_r1_celk_cas;.19;[-.18, .52];1.052;.302;.29;3200.7;.123
-15_motoricka_koordinace;15_prava_r2_celk_cas;.23;[-.14, .55];1.263;.217;.27;3259.4;.142
-15_motoricka_koordinace;15_prava_r3_celk_cas;.41;[.06, .67];2.387;.024;.38;2769.0;.036
-15_motoricka_koordinace;15_prava_r4_celk_cas;.47;[.13, .71];2.780;.010;.36;2856.6;.048
-16_zrakove_motoricka_presnost;16_cas_adm..s.;.72;[.48, .86];5.454;< .001;.67;1495.7;< .001
+1_verbalni_pamet_a_uceni;1_konfab_1.4;.12;[-.24, .46];0.661;.514;.21;3935.4;.265
+1_verbalni_pamet_a_uceni;1_opak_1.4;.54;[.23, .75];3.434;.002;.50;2475.0;.004
+1_verbalni_pamet_a_uceni;1_pok1;.49;[.17, .72];3.067;.005;.47;2645.4;.008
+1_verbalni_pamet_a_uceni;1_pok2;.50;[.17, .72];3.096;.004;.43;2841.3;.016
+1_verbalni_pamet_a_uceni;1_pok3;.60;[.32, .79];4.090;< .001;.62;1865.2;< .001
+1_verbalni_pamet_a_uceni;1_pok4;.48;[.15, .71];2.918;.007;.56;2187.2;.001
+1_verbalni_pamet_a_uceni;1_pok5;.31;[-.05, .60];1.779;.086;.32;3373.6;.079
+1_verbalni_pamet_a_uceni;1_pok6;.55;[.24, .76];3.546;.001;.51;2452.9;.004
+1_verbalni_pamet_a_uceni;1_pok7;.57;[.27, .77];3.718;< .001;.54;2260.9;.002
+1_verbalni_pamet_a_uceni;1_pok_1.4;.70;[.45, .84];5.226;< .001;.65;1739.1;< .001
+1_verbalni_pamet_a_uceni;1_rekog_nuc_volba;-.10;[-.43, .27];-0.513;.612;-.10;5460.5;.589
+1_verbalni_pamet_a_uceni;1_rekog_sumSeznam1;.25;[-.12, .55];1.371;.181;.28;3559.5;.124
+1_verbalni_pamet_a_uceni;1_rekognice_sumHS;.32;[-.04, .61];1.830;.078;.41;2907.0;.021
+2_pamet_na_pribehy_OKAMZITE;2_pribeh1_ok_sum;.69;[.44, .84];5.116;< .001;.70;1492.6;< .001
+2_pamet_na_pribehy_OKAMZITE;2_pribeh2_ok_sum;.88;[.77, .94];10.213;< .001;.78;1103.8;< .001
+2_pamet_na_pribehy_OKAMZITE;2_sum_1_2;.86;[.74, .93];9.271;< .001;.81;936.5;< .001
+2_pamet_na_pribehy_ODDALENE;2_pribeh1_odd_sum1;.65;[.38, .82];4.586;< .001;.65;1722.7;< .001
+2_pamet_na_pribehy_ODDALENE;2_pribeh2_odd_sum;.69;[.44, .84];5.110;< .001;.60;1967.6;< .001
+2_pamet_na_pribehy_ODDALENE;2_sum_1_2;.80;[.62, .90];7.090;< .001;.78;1112.9;< .001
+4_sluchova_pozornost;4_inhibice;.98;[.95, .99];23.742;< .001;.25;3705.4;.170
+4_sluchova_pozornost;4_opomenuti;.49;[.17, .72];3.033;.005;.53;2343.7;.002
+4_sluchova_pozornost;4_sum_body;.48;[.16, .72];2.982;.006;.54;2302.5;.002
+4_sluchova_pozornost;4_zamena;.38;[.03, .65];2.222;.034;.44;2785.3;.014
+5_zrakova_pozornost;5_n_hlav;.92;[.84, .96];12.582;< .001;.89;548.3;< .001
+5_zrakova_pozornost;5_n_opomenuti;.26;[-.11, .56];1.433;.162;.33;3311.3;.068
+5_zrakova_pozornost;5_n_zamena;-.07;[-.41, .29];-0.372;.713;-.16;5729.9;.404
+7_inhibice_a_presun_pozornosti;7_inhi_cas;.88;[.77, .94];10.045;< .001;.81;934.7;< .001
+7_inhibice_a_presun_pozornosti;7_inhi_neopr_chyby;.53;[.22, .75];3.396;.002;.40;3000.3;.028
+7_inhibice_a_presun_pozornosti;7_inhi_opr_chyby;.20;[-.17, .52];1.099;.281;.40;2997.7;.028
+7_inhibice_a_presun_pozornosti;7_inhi_sum_chyby;.24;[-.12, .55];1.349;.188;.36;3175.1;.047
+7_inhibice_a_presun_pozornosti;7_pojm_cas;.84;[.69, .92];8.371;< .001;.71;1429.0;< .001
+7_inhibice_a_presun_pozornosti;7_pojm_neopr_chyby;-.05;[-.40, .31];-0.258;.798;-.05;5197.8;.798
+7_inhibice_a_presun_pozornosti;7_pojm_opr_chyby;-.19;[-.51, .18];-1.046;.304;-.16;5774.0;.378
+7_inhibice_a_presun_pozornosti;7_pojm_sum_chyby;-.27;[-.57, .09];-1.540;.134;-.25;6224.0;.166
+7_inhibice_a_presun_pozornosti;7_presun_cas;.68;[.42, .83];4.930;< .001;.79;1042.8;< .001
+7_inhibice_a_presun_pozornosti;7_presun_neopr_chyby;.13;[-.24, .46];0.693;.494;.15;4210.9;.417
+7_inhibice_a_presun_pozornosti;7_presun_opr_chyby;.49;[.17, .72];3.049;.005;.45;2739.4;.012
+7_inhibice_a_presun_pozornosti;7_presun_sum_chyby;.43;[.09, .68];2.545;.016;.43;2804.9;.015
+8_pracovni_pamet;8_sumaHS;.66;[.40, .82];4.779;< .001;.55;2217.6;.001
+9_verbalni_fluence;9_KV_sum;.90;[.80, .95];10.950;< .001;.90;475.6;< .001
+9_verbalni_fluence;9_K_sum;.81;[.65, .91];7.532;< .001;.84;817.9;< .001
+9_verbalni_fluence;9_V_sum;.79;[.60, .89];6.832;< .001;.79;1041.5;< .001
+9_verbalni_fluence;9_switch_pocet_switch;.60;[.31, .79];4.007;< .001;.63;1854.4;< .001
+9_verbalni_fluence;9_switch_sum;.59;[.30, .78];3.979;< .001;.61;1939.1;< .001
+9_verbalni_fluence;9_zvire_sum;.40;[.05, .66];2.360;.025;.28;3568.3;.126
+10_konfrontacni_pojmenovani;10_celkem_fon;.27;[-.10, .57];1.484;.149;.12;4352.2;.511
+10_konfrontacni_pojmenovani;10_celkem_kat;.19;[-.17, .51];1.069;.294;.24;3753.4;.187
+10_konfrontacni_pojmenovani;10_celkem_spont;.84;[.70, .92];8.459;< .001;.86;677.3;< .001
+10_konfrontacni_pojmenovani;10_celkem_spont.kat;.86;[.72, .93];9.015;< .001;.86;706.4;< .001
+11_vybaveni_s_napovedou;11_sum_konfab;.07;[-.29, .42];0.388;.701;.11;4431.5;.568
+11_vybaveni_s_napovedou;11_sum_napoveda;.32;[-.04, .61];1.821;.079;.29;3524.0;.114
+11_vybaveni_s_napovedou;11_sum_pojm;.53;[.22, .74];3.372;.002;.31;3418.3;.089
+11_vybaveni_s_napovedou;11_sum_spont_vybav;.43;[.09, .68];2.568;.016;.35;3237.0;.056
+11_vybaveni_s_napovedou;11_sum_vybav;.19;[-.18, .51];1.039;.307;.17;4117.5;.361
+11_vybaveni_s_napovedou;11_sum_vybav_spont_napoveda;.44;[.10, .69];2.626;.014;.28;3561.2;.124
+12_prospektivni_pamet;12_pro_pa_1.8_sum;.53;[.22, .74];3.370;.002;.41;2920.9;.022
+12_prospektivni_pamet;12_rekogn_sum;.56;[.25, .76];3.619;.001;.56;2193.4;.001
+13_porozumeni_pokynum;13_sumaHS;.62;[.33, .80];4.202;< .001;.70;1475.0;< .001
+15_motoricka_koordinace;15_leva_r1_celk_cas;.20;[-.17, .52];1.093;.283;.20;3974.7;.284
+15_motoricka_koordinace;15_leva_r2_celk_cas;.55;[.24, .75];3.505;.002;.49;2525.0;.005
+15_motoricka_koordinace;15_leva_r3_celk_cas;.80;[.63, .90];7.279;< .001;.67;1625.0;< .001
+15_motoricka_koordinace;15_leva_r4_celk_cas;.79;[.61, .89];6.948;< .001;.74;1282.7;< .001
+15_motoricka_koordinace;15_prava_r1_celk_cas;.19;[-.18, .51];1.044;.305;.30;3494.6;.107
+15_motoricka_koordinace;15_prava_r2_celk_cas;.27;[-.09, .57];1.523;.139;.32;3351.3;.075
+15_motoricka_koordinace;15_prava_r3_celk_cas;.42;[.08, .68];2.518;.018;.42;2875.1;.018
+15_motoricka_koordinace;15_prava_r4_celk_cas;.48;[.16, .72];2.982;.006;.40;2984.8;.026
+16_zrakove_motoricka_presnost;16_cas_adm (s);.71;[.48, .85];5.465;< .001;.64;1771.8;< .001
 16_zrakove_motoricka_presnost;16_chyba_otoceni_papiru;NA;[NA, NA];NA;NA;NA;NA;NA
-16_zrakove_motoricka_presnost;16_chyba_preruseni_linky;.72;[.49, .86];5.509;< .001;.36;2893.2;.053
-16_zrakove_motoricka_presnost;16_chyba_vyjeti_sum;.79;[.60, .90];6.800;< .001;.88;521.3;< .001
-16_zrakove_motoricka_presnost;16_err_suma;.79;[.59, .89];6.736;< .001;.89;514.0;< .001
-17_zrakove_vnimani;17_cas_adm..s.;.56;[.25, .77];3.584;.001;.74;1166.2;< .001
-17_zrakove_vnimani;17_sum_spravne;.69;[.44, .84];5.059;< .001;.70;1339.4;< .001
-18_zrakove_prostorove_vnimani;18_sum_body;.55;[.23, .76];3.457;.002;.66;1538.7;< .001
-19_orientace_v_prostoru;19_cas_adm..s.;.81;[.63, .90];7.186;< .001;.84;731.5;< .001
-19_orientace_v_prostoru;19_sum_body;.80;[.62, .90];7.070;< .001;.78;972.8;< .001
-20_rozpoznavani_emoci;20_suma_body;.50;[.17, .73];3.035;.005;.56;1996.6;.001
-21_teorie_mysli;21_sum_body;.47;[.13, .71];2.821;.009;.37;2830.8;.044
+16_zrakove_motoricka_presnost;16_chyba_preruseni_linky;.72;[.49, .86];5.629;< .001;.36;3188.6;.049
+16_zrakove_motoricka_presnost;16_chyba_vyjeti_sum;.79;[.60, .89];6.884;< .001;.87;639.2;< .001
+17_zrakove_vnimani;17_cas_adm (s);.57;[.27, .77];3.763;< .001;.75;1254.1;< .001
+17_zrakove_vnimani;17_sum_spravne;.69;[.44, .84];5.074;< .001;.69;1557.2;< .001
+18_zrakove_prostorove_vnimani;18_sum_body;.56;[.26, .77];3.672;< .001;.68;1599.7;< .001
+19_orientace_v_prostoru;19_cas_adm (s);.81;[.64, .90];7.422;< .001;.85;761.5;< .001
+19_orientace_v_prostoru;19_sum_body;.81;[.63, .90];7.320;< .001;.79;1045.6;< .001
+20_rozpoznavani_emoci;20_suma_body;.52;[.20, .74];3.283;.003;.59;2052.2;< .001
+21_teorie_mysli;21_sum_body;.48;[.15, .71];2.965;.006;.38;3072.8;.035
+3_neverbalni_pamet;3_P1.4_HS;.59;[.30, .78];3.928;< .001;.61;1936.1;< .001
