@@ -73,7 +73,7 @@ corr %>%
   theme( legend.position = "none" )
 
 # save the plot
-ggsave( plot = last_plot(), filename = here("figs","pearson_corr.jpg"), dpi = 300, height = 16.2, width = 15.9 )
+ggsave( plot = last_plot(), filename = here("figs","pearson_corr.jpg"), dpi = 300, height = 18.2, width = 15.9 )
 
 # save the table
 write.table(
@@ -111,7 +111,7 @@ df %>%
   theme( legend.position = "bottom" )
 
 # save the plot
-ggsave( plot = last_plot(), filename = here("figs","scatters.jpg"), dpi = 300, height = 16.2, width = 15.9 )
+ggsave( plot = last_plot(), filename = here("figs","scatters.jpg"), dpi = 300, height = 18.2, width = 15.9 )
 
 
 # DIFFERENCES ----
